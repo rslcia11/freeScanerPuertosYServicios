@@ -1,0 +1,5 @@
+__pycache__/
+*.txt
+*.html
+*.json
+*_backup.py
